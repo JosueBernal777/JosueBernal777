@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 ¡Hola, soy Josue!
+💻✨ Nuevo explorador en el mundo del desarrollo web 🚀, con muchas ganas de aprender, crear y crecer en la tecnología.
 
-<!--
-**JosueBernal777/JosueBernal777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Lo que me apasiona:
 
-Here are some ideas to get you started:
+🛠️ Construir proyectos desde cero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Descubrir nuevas herramientas y lenguajes.
+
+💡 Hacer cosas que realmente impacten y ayuden a otros.
+
+Siempre estoy buscando ideas creativas 🤔 y emocionantes para trabajar. ¡El camino apenas comienza, y estoy emocionado por lo que viene! 📈
+
+🤝 ¿Colaboramos? Estoy abierto a trabajar en proyectos juntos y aprender de la comunidad. ¡Conectemos y hagamos cosas increíbles! ✨
